@@ -2,6 +2,7 @@ var ti = document.getElementById("ti");
 var t = 750;
 window.onload = function() {
 	setInterval(function() {
+		//console.log(ti.style.marginLeft);
 		ti.style.marginLeft = t + "px";
 		// console.log(1);
 		// console.log(ti.style.marginLeft);

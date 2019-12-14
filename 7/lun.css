@@ -75,7 +75,9 @@ ul,li{
 	cursor: pointer;
 	margin: 0 10px;
 	border-radius: 50%;
+	color: red;
 }
 .nav .active{
 	background: red;
+	color: #FFFFFF;
 }
